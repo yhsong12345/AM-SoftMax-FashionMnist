@@ -16,5 +16,9 @@ python train.py
 
 ## Result (Plot)
 
-Plots are in the plot folder
+<div align="center">
+    <a href="./">
+        <img src="./154.png" width="79%"/>
+    </a>
+</div>
 
